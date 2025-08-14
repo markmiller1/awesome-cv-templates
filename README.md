@@ -27,6 +27,7 @@ CSS CV templates are based on HTML standards and they are geared towards screen 
 
 - [Markdown CV](https://github.com/elipapa/markdown-cv) - A simple template to write your CV in a readable `Markdown` file and use CSS to publish or print it through the browser.
 - [Markdown Resume](https://github.com/there4/markdown-resume) - Generate a responsive CSS3 and HTML5 resume with `Markdown`, with optional PDF output through `wkhtmltopdf`.
+- [Jekyll Theme Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Generate a simple static website with the `Jekyll` layout engine and a theme that supports the `JSON` resume standard.
 
 
 ## Workflows
