@@ -64,6 +64,7 @@ Schemas provide a generic structure for CV data and facilitate cross compilation
 There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.
 
 - [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template. 
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) + State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 - [resumake](https://github.com/saadq/resumake.io) - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
 
